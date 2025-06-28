@@ -9,7 +9,7 @@ Antes de rodar o código, é necessário ter os seguintes itens instalados no si
 
 * **Python 3.8+**
 * **pip**
-* **Virtualenv** (opcional, mas recomendado)
+* **Virtualenv**
 
 ### 🧰 Bibliotecas necessárias
 
